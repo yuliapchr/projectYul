@@ -1,3 +1,4 @@
+# function main
 def main():
     print('hello')
     print('help')
